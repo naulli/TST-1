@@ -1,0 +1,49 @@
+{
+    "mahasiswa": [
+    {
+            "id":1,
+            "NIM":"18220007",
+            "nama":"Joanna Margareth Nauli"
+    },
+    {
+            "id":2,
+            "NIM":"18220067",
+            "nama":"Tania Junardi Chua"
+    },
+    {
+            "id":3,
+            "NIM":"18220021",
+            "nama":"Divya Maharani Lazuardi"
+    },
+    {
+            "id":4,
+            "NIM":"18220047",
+            "nama":"Dhiya Risalah Ghaida"
+    },
+    {
+            "id":5,
+            "NIM":"18220041",
+            "nama":"Bryan Eagan"
+    },
+    {
+            "id":6,
+            "NIM":"18220030",
+            "nama":"Shafira Putri Azmi Imani"
+    },
+    {
+            "id":7,
+            "NIM":"18220016",
+            "nama":"Salsabila Asyifa Shalehah"
+    },
+    {
+            "id":8,
+            "NIM":"18220075",
+            "nama":"Faizah Kamilah Setiawan"
+    },
+    {
+            "id":9,
+            "NIM":"18220024",
+            "nama":"Aulia Fajriaturrakhmah"
+    }
+    ]
+}
